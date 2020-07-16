@@ -10,8 +10,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 ## Research
 You can find the current version of my PhD dissertation 
-**Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning**
-<a href="papers/thesis.pdf" target="_blank">here</a>
+<a href="papers/thesis.pdf" target="_blank">Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning</a>.
 
 
 ## Teaching
@@ -28,6 +27,6 @@ You can find the current version of my PhD dissertation
 
 * Statistics 1 (mainly Inferential Statistics).
 * Statistics 2 (mainly Statistical tests).
-* Probability Theory.
+* Probability theory.
 * Introduction to Machine Learning.
 
