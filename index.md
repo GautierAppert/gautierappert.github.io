@@ -1,7 +1,6 @@
 ## Bio
 
-* I am a full time Temporary Teaching and Research Assistants in Statistics at Paris-Saclay University.
-I am also a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni (CNRS Research Director). 
+* I am a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni (CNRS Research Director). 
 As a member of the Laboratory of Statistics, I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
 
 
@@ -24,10 +23,10 @@ You can find the current version of my PhD dissertation
 * Measure, Integration theory and Probability to undergraduate students ("Magistère de Mathématiques").
 * Mathematical modeling (mainly applied probability) to undergraduate students.
 
-2016-2019, as a Teaching Assistant at ENSAE Paris Tech
+2016-2019, as a Teaching Assistant at ENSAE Paris Tech to engineering students
 
-* Statistics 1 (mainly inferential statistics) to engineering students
-* Statistics 2 (mainly test statistics) to engineering students.
-* Probability Theory to engineering students.
-
+* Statistics 1 (mainly inferential statistics).
+* Statistics 2 (mainly test statistics).
+* Probability Theory.
+* Introduction to Machine Learning.
 
