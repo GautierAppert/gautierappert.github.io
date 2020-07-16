@@ -12,7 +12,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 ## Research
 You can find the current version of my PhD dissertation
 [here](https://github.com/GautierAppert/phd-thesis/blob/master/thesis.pdf)
-
+<a href="papers/thesis.pdf" target="_blank">Dissertation</a>
 ## Teaching
 
 2019-2020, as a Teaching Assistant at Paris-Saclay University
