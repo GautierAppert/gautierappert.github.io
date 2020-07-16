@@ -10,7 +10,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 ## Research
 You can find the current version of my PhD dissertation 
-** Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning **
+**Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning**
 <a href="papers/thesis.pdf" target="_blank">here</a>
 
 
