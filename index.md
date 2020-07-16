@@ -1,19 +1,19 @@
 ## Bio
 
-* I am a full time Temporary Teaching and Research Assistants at Paris Sud University in Statistics.
-I am also a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni. 
+* I am a full time Temporary Teaching and Research Assistants in Statistics at Paris-Saclay University.
+I am also a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni (CNRS Research Director). 
 As a member of the Laboratory of Statistics, I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
 
 
-* I myself recently graduated from ENSAE ParisTech, completing an Engineer's degree in Data Science, and from ENS Cachan, completing a MSc in Mathematics, Vision and Machine Learning. 
+* I myself recently graduated from ENSAE ParisTech, completing an Engineer's degree in Data Science, and from ENS Paris-Saclay, completing a MSc in Mathematics, Vision and Machine Learning. 
 I also hold a MSc in Statistics and Econometrics from Toulouse School of Economics.
 
 
 * My previous experiences gave me the opportunity to apply my skills in concrete situations and to solve various problems, from Geomarketing to Big Data analytics and Time Series prediction. I am always looking for professionals opportunities with common interests, so feel free to connect! 
 
 ## Research
-You can find the current version of phd dissertation here
-
+You can find the current version of my phd dissertation here
+[here](https://github.com/GautierAppert/phd-thesis/blob/master/thesis.pdf)
 
 ## Teaching
 
