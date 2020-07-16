@@ -1,6 +1,6 @@
 ## Bio
 
-* I am now a full time Temporary Teaching and Research Assistants at Paris Sud University in Statistics.
+* I am a full time Temporary Teaching and Research Assistants at Paris Sud University in Statistics.
 I am also a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni. 
 As a member of the Laboratory of Statistics, I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
 
