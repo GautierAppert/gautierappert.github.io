@@ -10,7 +10,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 
 ## Research
-You can find the current version of my phd dissertation
+You can find the current version of my PhD dissertation
 [here](https://github.com/GautierAppert/phd-thesis/blob/master/thesis.pdf)
 
 ## Teaching
@@ -29,9 +29,6 @@ You can find the current version of my phd dissertation
 * Statistics 2 (mainly test statistics) to engineering students.
 * Probability Theory to engineering students.
 
-You can use the [editor on GitHub](https://github.com/GautierAppert/gautierappert.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
