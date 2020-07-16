@@ -9,9 +9,6 @@ As a member of the Laboratory of Statistics, I am mainly working on various type
 I also hold a MSc in Statistics and Econometrics from Toulouse School of Economics.
 
 
-* My previous experiences gave me the opportunity to apply my skills in concrete situations and to solve various problems, from Geomarketing to Big Data analytics and Time Series prediction.
-
-
 ## Research
 You can find the current version of my phd dissertation
 [here](https://github.com/GautierAppert/phd-thesis/blob/master/thesis.pdf)
