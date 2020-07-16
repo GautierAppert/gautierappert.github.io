@@ -19,7 +19,7 @@ You can find the current version of my PhD dissertation
 
 * 2nd years Statistical Modeling with applications in R, at ENSTA ParisTech to engineering students.
 * Probability and Statistics at Polytech Paris Sud to engineering students. 
-* Statistics (revision course) to Master 2 Mathematics and application students. Applications in R. 
+* Statistics (revision course) with applications in R, to Master 2 Mathematics and application students. 
 * Measure, Integration theory and Probability to undergraduate students ("Magistère de Mathématiques").
 * Mathematical modeling (mainly applied probability) to undergraduate students.
 
