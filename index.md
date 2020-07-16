@@ -9,7 +9,8 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 
 ## Research
-You can find the current version of my PhD dissertation
+You can find the current version of my PhD dissertation 
+** Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning **
 <a href="papers/thesis.pdf" target="_blank">here</a>
 
 
@@ -25,8 +26,8 @@ You can find the current version of my PhD dissertation
 
 2016-2019, as a Teaching Assistant at ENSAE Paris Tech to engineering students
 
-* Statistics 1 (mainly inferential statistics).
-* Statistics 2 (mainly test statistics).
+* Statistics 1 (mainly Inferential Statistics).
+* Statistics 2 (mainly Statistical tests).
 * Probability Theory.
 * Introduction to Machine Learning.
 
