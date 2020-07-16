@@ -1,9 +1,6 @@
 title: <p style="text-align:center">Gautier Appert</p>
 
 
-logo: "https://github.com/GautierAppert/gautierappert.github.io/blob/master/saumon.png?raw=true"
-
-
 author: Gautier Appert
 
 
@@ -18,6 +15,7 @@ description: >
   <br> <br> 
   gautier [dot] appert [dot] chess [at] gmail [dot] com
   <br> <br> <br> <br> <br> <br>
+  <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
   </p>
 
 theme: jekyll-theme-minimal
