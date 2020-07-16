@@ -15,7 +15,7 @@ You can find the current version of my PhD dissertation
 
 ## Teaching
 
-2019-2020, as a Teaching Assistant at Paris-Saclay University
+2019-2020, as a Teaching Assistant ("ATER" position) at Paris-Saclay University
 
 * 2nd years Statistical Modeling with applications in R, at ENSTA ParisTech to engineering students.
 * Probability and Statistics at Polytech Paris Sud to engineering students. 
