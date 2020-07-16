@@ -1,4 +1,4 @@
-## Bio
+# Bio
 
 * I am now a full time Temporary Teaching and Research Assistants at Paris Sud University in Statistics.
 I am also a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni. 
