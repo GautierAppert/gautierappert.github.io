@@ -19,16 +19,16 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 2019-2020, as a Teaching Assistant ("ATER" position) at Paris-Saclay University
 
-* 2nd years Statistical Modeling with applications in R, at ENSTA ParisTech to engineering students.
-* Probability and Statistics at Polytech Paris Sud to engineering students. 
+* Statistical Modeling with applications in R, at ENSTA ParisTech to 2nd year engineering students.
+* Probability and Statistics at Polytech Paris Sud to 1st year engineering students. 
 * Statistics (revision course) with applications in R, to Master 2 Mathematics and application students. 
 * Measure, Integration theory and Probability to undergraduate students ("Magistère de Mathématiques").
 * Mathematical modeling (mainly applied probability) to undergraduate students.
 
-2016-2019, as a Teaching Assistant at ENSAE Paris Tech to engineering students
+2016-2019, as a Teaching Assistant at ENSAE Paris Tech 
 
-* Statistics 1 (mainly Inferential Statistics).
-* Statistics 2 (mainly Statistical tests).
-* Probability theory.
-* Introduction to Machine Learning.
+* Statistics 1 (mainly Inferential Statistics), 2nd year engineering students.
+* Statistics 2 (mainly Statistical tests), 2nd year engineering students.
+* Probability theory, 1st year engineering students.
+* Introduction to Machine Learning, 2nd year engineering students.
 
