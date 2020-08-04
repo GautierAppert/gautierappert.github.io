@@ -28,6 +28,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 * Mathematical modeling (mainly applied probability) to undergraduate students.
 
 2016-2019, as a Teaching Assistant at ENSAE Paris Tech 
+<a href="teaching/teaching_assistant.pdf" target="_blank">(list of courses)</a>
 
 * Statistics 1 (mainly Inferential Statistics), 2nd year engineering students.
 * Statistics 2 (mainly Statistical tests), 2nd year engineering students.
