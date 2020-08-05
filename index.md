@@ -26,6 +26,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 * Statistics (revision course) with applications in R, to Master 2 Mathematics and application students. 
 * Measure, Integration theory and Probability to undergraduate students ("Magistère de Mathématiques").
 * Mathematical modeling (mainly applied probability) to undergraduate students.
+* Revision tutorial, Probability to undergraduate students ("Magistère de Mathématiques").
 
 2016-2019, as a Teaching Assistant at ENSAE Paris Tech 
 <a href="teaching/teaching_assistant.pdf" target="_blank">(list of courses)</a>
