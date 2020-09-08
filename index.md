@@ -16,7 +16,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 * Full R and C++ source code for the fragmentation and syntax analysis algorithm is available on  <a href="https://github.com/GautierAppert/PatchProcess">GitHub</a> 
 
 * Presentation of a new type of k-means using the Kullback divergence as a distortion measure, with application to digital images 
-<a href="papers/information_kmeans.pdf">Slides</a>
+<a href="papers/information_kmeans.pdf">(Slides)</a>
 
 ---
 
