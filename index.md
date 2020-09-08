@@ -11,9 +11,12 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 ## Research
 * You can find the current version of my PhD dissertation 
-<a href="papers/thesis.pdf" target="_blank">Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning</a>.
+<a href="papers/thesis.pdf" target="_blank">Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning</a>
 
 * Full R and C++ source code for the fragmentation and syntax analysis algorithm is available on  <a href="https://github.com/GautierAppert/PatchProcess">GitHub</a> 
+
+* Presentation of a new type of k-means using the Kullback divergence as a distortion measure, with application to digital images 
+<a href="papers/information_kmeans">Slides</a>
 
 ---
 
