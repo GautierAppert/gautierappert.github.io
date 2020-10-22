@@ -22,6 +22,12 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 
 ## Teaching
 
+2020-2021, as a Temporary Teaching and Research Assistant in Statistics at 
+University of Paris 1 Pantheon-Sorbonne
+
+* Mathematical Statistics to undergraduate students
+* Calculus to undergraduate students
+
 2019-2020, as a Teaching Assistant ("ATER" position) at Paris-Saclay University
 
 * Statistical Modeling with applications in R, at ENSTA ParisTech to 2nd year engineering students.
