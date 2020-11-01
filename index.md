@@ -1,7 +1,7 @@
 ## Bio
 
 * I am a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni (CNRS Research Director). 
-As a member of the Laboratory of Statistics, I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
+I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
 
 
 * I graduated from ENSAE ParisTech, completing an Engineer's degree in Data Science, and from ENS Paris-Saclay, completing a MSc in Mathematics, Vision and Machine Learning. 
@@ -10,8 +10,9 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 ---
 
 ## Research
-* You can find the current version of my PhD dissertation 
+* You can find my PhD dissertation 
 <a href="papers/thesis.pdf" target="_blank">Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning</a>
+and my PhD defense presentation <a href="papers/slides\_phd.pdf" target="_blank">Slides</a>
 
 * Full R and C++ source code for the fragmentation and syntax analysis algorithm is available on  <a href="https://github.com/GautierAppert/PatchProcess">GitHub</a> 
 
