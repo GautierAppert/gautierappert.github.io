@@ -12,7 +12,7 @@ I also hold a MSc in Statistics and Econometrics from Toulouse School of Economi
 ## Research
 * You can find my PhD dissertation 
 <a href="papers/thesis.pdf" target="_blank">Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning</a>
-and my PhD defense presentation <a href="papers/slides_phd.pdf" target="_blank">Slides</a>
+and my PhD defense presentation <a href="papers/slides_phd.pdf" target="_blank">(Slides)</a>
 
 * Full R and C++ source code for the fragmentation and syntax analysis algorithm is available on  <a href="https://github.com/GautierAppert/PatchProcess">GitHub</a> 
 
