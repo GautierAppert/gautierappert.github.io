@@ -19,7 +19,8 @@ and my PhD defense presentation <a href="papers/slides_phd.pdf" target="_blank">
 * Presentation of a new type of k-means using the Kullback divergence as a distortion measure, with application to digital images 
 <a href="papers/information_kmeans.pdf">(Slides)</a>
 
-* New preprint about Risk bounds for k-means and information k-means: <a href="https://arxiv.org/pdf/2101.05728.pdf">New bounds for k-means and information k-means</a> <br> G.Appert and O.Catoni <br>
+* New preprint about Risk bounds for k-means and information k-means <a href="https://arxiv.org/pdf/2101.05728.pdf"> New bounds for k-means and information k-means </a> 
+<br> G.Appert and O.Catoni <br>
 
 ---
 
@@ -28,8 +29,10 @@ and my PhD defense presentation <a href="papers/slides_phd.pdf" target="_blank">
 2020-2021, as a Temporary Teaching and Research Assistant in Statistics at 
 University of Paris 1 Pantheon-Sorbonne
 
-* Mathematical Statistics to undergraduate students
-* Calculus to undergraduate students
+* Numerical Analysis with R, to undergraduate students.
+* Mathematical Statistics to undergraduate students.
+* Calculus, to undergraduate students.
+* Probability theory, to undergraduate students.
 
 2019-2020, as a Teaching Assistant ("ATER" position) at Paris-Saclay University
 
