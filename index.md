@@ -46,7 +46,7 @@ University of Paris 1 Pantheon-Sorbonne
 2016-2019, as a Teaching Assistant at ENSAE Paris Tech 
 <a href="teaching/teaching_assistant.pdf" target="_blank">(list of courses)</a>
 
-* Statistics 1 (mainly Inferential Statistics), 2nd year engineering students.
+* Statistics 1 (mainly Inferential Statistics) + <a href="teaching/statistical_projects.pdf"> statistical projects </a> , 2nd year engineering students.
 * Statistics 2 (mainly Statistical tests), 2nd year engineering students.
 * Probability theory, 1st year engineering students.
 * Introduction to Machine Learning, 2nd year engineering students.
