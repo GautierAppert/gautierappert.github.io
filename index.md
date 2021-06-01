@@ -1,7 +1,7 @@
 ## Bio
 
 * I was a French PhD Candidate in Statistics at CREST-ENSAE, under the direction of Dr. Olivier Catoni (CNRS Research Director). 
-I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. 
+I am mainly working on various type of k-means and PAC-Bayesian theory with application to images. See some slides/presentation <a href="papers/presentation.pdf" target="_blank"> in french of my research and teaching activities.
 
 
 * I graduated from ENSAE ParisTech, completing an Engineer's degree in Data Science, and from ENS Paris-Saclay, completing an MSc in Mathematics, Vision and Machine Learning. 
